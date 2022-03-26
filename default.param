@@ -1,0 +1,8 @@
+X_IMAGE_DBL            Object position along x                                    [pixel]
+Y_IMAGE_DBL            Object position along y                                    [pixel]
+ELLIPTICITY
+FLUX_ISO
+FLUXERR_ISO
+MAG_ISO
+FWHM_IMAGE
+FLAGS
